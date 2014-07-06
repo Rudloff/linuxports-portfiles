@@ -26,9 +26,10 @@ perl5.20 13304
 phpstylist 13862
 python27 14273
 youtube-dl 14816
-db_select 15339
-grep 15809
-python_select 16329
-expat 16740
-gsed 17208
-libiconv 17906
+sqlmap 15339
+db_select 16198
+grep 16668
+python_select 17188
+expat 17599
+gsed 18067
+libiconv 18765
